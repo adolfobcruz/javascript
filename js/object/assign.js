@@ -8,3 +8,10 @@ console.log(target);
 
 console.log(returnedTarget === target);
 // Expected output: true
+
+// Cloning a Object
+const obj = { a: 1 };
+const copy = Object.assign({}, obj);
+
+console.log(copy);
+// Expected output: { a: 1 }
