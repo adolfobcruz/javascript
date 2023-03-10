@@ -1,3 +1,5 @@
+// Declaring a variable
+
 // let myName;
 // let myAge;
 
